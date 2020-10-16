@@ -83,4 +83,6 @@ elif status == 404:
     print('\n\n\n|||连接签到网站出错，等等再试|||\n\n\n')
 
 sys.exit(0)
-exit()
+exit() 
+
+  
